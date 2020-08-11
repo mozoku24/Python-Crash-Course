@@ -5,5 +5,8 @@ Notes of the Book <Python Crash Course>
 > pygame
 
 - data_visualization
+> matplotlib
+Pygal
+requests
 
 - learning_log
