@@ -2,11 +2,11 @@
 Notes of the Book <Python Crash Course>
 
 - alien_invasion
-* pygame
+pygame
 
 - data_visualization
-* matplotlib
-* Pygal_
-* requests
+matplotlib
+Pygal
+requests
 
 - learning_log
