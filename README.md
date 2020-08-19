@@ -5,4 +5,4 @@ Notes of the Book <Python Crash Course>
 
 - data_visualization (matplotlib, Pygal, requests)
 
-- learning_log（Django）
+- learning_log (Django)
